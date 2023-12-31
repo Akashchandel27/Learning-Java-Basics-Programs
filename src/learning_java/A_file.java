@@ -17,6 +17,11 @@ public class A_file {
 		System.out.println("this is my marks" +marks + "roll no" + roll_no +"student of college" +COLLEGE );
 		
 	}
+
+	public void chandel() {
+		
+		System.out.println("---- demo value for chandel");
+	}
 	
 	
 
