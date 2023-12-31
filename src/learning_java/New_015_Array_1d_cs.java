@@ -15,6 +15,7 @@ public class New_015_Array_1d_cs {
 //		roll_no[2] = 12;
 //		roll_no[3] = 14;
 //		//roll_no[4] = 14;
+		
 
 		// print the size of the array
 		System.out.println(roll_no.length);
