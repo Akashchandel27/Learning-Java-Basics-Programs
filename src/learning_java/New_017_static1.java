@@ -6,6 +6,7 @@ public class New_017_static1 {
 		static int y = 900;      // Global static variable
 		String str = "Selenium"; // Global non static Variable
 		
+	
 		// static function/method
 		public static void func1() {
 			String x = "Hello";

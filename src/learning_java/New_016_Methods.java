@@ -11,6 +11,7 @@ public class New_016_Methods {
 	// via objref we can call methods having access modifiers private and protected (even you can call if they are static in nature- directly or classname)
     // default method can only be created in an interface
 	
+	
 	private void bedroom() {
 		System.out.println("this is private method");
 	}
