@@ -2,12 +2,6 @@ package learning_java;
 
 public class A_file {
 	
-	// this is a demo test 
-	// which i am performing
-	// editor
-	// editor commit
-	
-	
 	static String COLLEGE;
 	static String subject;
 	static int marks;
