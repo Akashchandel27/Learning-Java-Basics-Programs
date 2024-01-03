@@ -4,7 +4,7 @@ public class Bank_main {
 
 	public static void main(String[] args) {
 		
-		BankA bA = new BankA();
+		BankA bA = new BankA()
         bA.getBalance();
 
         
