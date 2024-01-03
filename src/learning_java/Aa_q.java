@@ -1,5 +1,7 @@
 package learning_java;
 
+
+
 public class Aa_q {
 		
 	public static int area(int a) {
